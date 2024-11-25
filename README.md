@@ -1,6 +1,6 @@
 # GK_NGROK
 Roda o Ngrok no Termux sem precisar de Root 
-
+```bash
 　　   　 ／＞　 フ
 　　　　　| 　_　 _|
 　 　　　／`ミ _x 彡
@@ -12,6 +12,7 @@ Roda o Ngrok no Termux sem precisar de Root
 
 Instalação feita com sucesso!
 Agora digite ./ngrok +token
+```
 # Install
 ```bash
 pkg update -y
