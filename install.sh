@@ -22,5 +22,5 @@ echo -e '''\033[1;36m
 \033[1;36m　＼二つ\033[0m
 \033[1;32m
 Instalação feita com sucesso!
-Agora digite ./ngrok +token
+Agora digite . ./ngrok config add-authtoken +tokenaqui
 '''
